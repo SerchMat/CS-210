@@ -1,0 +1,3 @@
+﻿  AirGeadBanking.cpp
+AirGeadBanking.obj : error LNK2001: unresolved external symbol "public: void __thiscall money::yesMonthly(void)" (?yesMonthly@money@@QAEXXZ)
+\\apporto.com\dfs\SNHU\USERS\sergiomateos_snhu\Desktop\AirGeadBanking\Release\AirGeadBanking.exe : fatal error LNK1120: 1 unresolved externals
